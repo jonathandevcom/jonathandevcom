@@ -1,3 +1,5 @@
+![Cover](https://github.com/jonathandevcom/jonathandevcom/blob/master/img/cover.jpg)
+
 ### Hi there 👋
 
 <!--
