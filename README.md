@@ -1,4 +1,4 @@
-![Cover](https://github.com/jonathandevcom/jonathandevcom/blob/master/img/cover.png)
+![Cover](https://github.com/jonathandevcom/jonathandevcom/blob/main/img/cover.png)
 
 ### Hi there 👋
 
